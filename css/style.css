@@ -57,8 +57,20 @@ section h1{
     font-weight: bold;
     box-shadow: 2px 2px black;
     vertical-align: middle;
+    font-family: sans-serif;
     display: inline;
-    font-family: sans-serif
+}
+
+.button{
+    display: inline;
+}
+
+.menu-circle:hover{
+    background-color: grey;
+}
+
+.menu-circle:active{
+    background-color: rgb(0, 153, 255);
 }
 
 #shoe1{
